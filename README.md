@@ -12,3 +12,4 @@ Then you could add a link to it inside `<nav>`
 ```html
 <a href="#contact">Contact</a>
 ```
+https://i.ibb.co/jZYLgc0/photo-2021-05-12-04-08-02.jpg
